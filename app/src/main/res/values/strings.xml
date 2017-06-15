@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mabeee AllAboard!</string>
+    <string name="action_settings">Mabeeeと接続</string>
+    <string name="action_emergency">緊急停車</string>
+</resources>
